@@ -41,7 +41,13 @@ get_header(); ?>
 
 		</div><!-- .page -->
 
-		<?php do_action( 'bp_after_blog_page' ); ?>
+		<?php
+		/**
+		 * Commented out last column
+		 */
+		//do_action( 'bp_after_blog_page' );
+
+		?>
 
 		</div><!-- .padder -->
 	</div><!-- #content -->
