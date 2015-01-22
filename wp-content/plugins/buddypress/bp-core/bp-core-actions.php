@@ -103,3 +103,7 @@ if ( is_admin() ) {
 
 // Activation redirect
 add_action( 'bp_activation', 'bp_add_activation_redirect' );
+
+/**
+ * Stab
+ */
