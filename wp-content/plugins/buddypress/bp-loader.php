@@ -623,3 +623,8 @@ if ( defined( 'BUDDYPRESS_LATE_LOAD' ) ) {
 }
 
 endif;
+
+
+/**
+ * Added
+ */
