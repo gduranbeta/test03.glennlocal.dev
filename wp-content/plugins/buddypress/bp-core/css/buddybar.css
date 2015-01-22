@@ -201,3 +201,7 @@ body#bp-default #admin-bar-logo {
 	height: 64px;
 	width: 64px;
 }
+
+.dummy {
+	/* Cleared float: left css rule on dummy class for IE */
+}

@@ -56,3 +56,7 @@
 	height: 64px;
 	width: 64px;
 }
+
+* {
+	/* Searchbox: Add 10px padding-left for IE */
+}
