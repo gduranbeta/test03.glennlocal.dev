@@ -200,6 +200,7 @@ body#bp-default #admin-bar-logo {
 #wp-admin-bar-user-info img.avatar {
 	height: 64px;
 	width: 64px;
+	background-color: #005684;
 }
 
 .dummy {
