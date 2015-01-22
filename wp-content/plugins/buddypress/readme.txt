@@ -189,3 +189,5 @@ See: http://codex.buddypress.org/releases/version-1-5/
 
 = Older =
 See: http://codex.buddypress.org/releases/
+
+= Initial commit of test03.glennlocal.dev : buddypress plugin
